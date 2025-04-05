@@ -1,0 +1,8 @@
+train: /content/ML_project/data/images/train
+val: /content/ML_project/data/images/val
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['no_tumor', 'tumor']
